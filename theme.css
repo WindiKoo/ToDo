@@ -1,0 +1,9 @@
+:root {
+  --text: whitesmoke;
+  --highlight:teal;
+  --border: rgb(0, 105, 128);
+  --border-hover: rgb(0, 113, 139);
+  --block: rgb(0, 52, 63);
+  --back: rgb(0, 25, 32);
+}
+
