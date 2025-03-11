@@ -5,3 +5,5 @@ The base of the project has been made with help of a example video from the yout
 After the instructed parts, I included my own color theme by creating new CSS -file
 and tried different kind of clicking effeckts on the + -button and the other clickable items.
 I plan to continue working on this project to learn more.
+
+You can try the app in: https://windikoo.github.io/ToDo/
